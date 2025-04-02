@@ -1,8 +1,5 @@
 # MediVision AI - Advanced Medical Image Analysis 📊🩺
 
-## Elevator Pitch 🎯
-**"MediVision AI: AI-Powered Medical Image Analysis for Smarter Diagnostics 📊🩺"**
-
 ## Overview 🚀
 **MediVision AI** is a cutting-edge medical image analysis tool that leverages AI to provide expert-level insights into medical images. This application assists healthcare professionals in diagnosing abnormalities, suggesting further tests, and recommending potential treatments.
 
@@ -46,9 +43,13 @@ Ensure you have the following installed:
    ```
 
 ## Demo 🎥
-Check out the live demo of **MediVision AI** in action:
+Check out the demo video of **MediVision AI** in action:
 
-(Will be updated soon)
+
+
+https://github.com/user-attachments/assets/844439e3-8ca2-4401-ada9-36614b8f118e
+
+
 
 ## Built With 🏗️
 - **Languages**: Python
