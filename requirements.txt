@@ -1,0 +1,6 @@
+# Requirements for MediVision AI
+
+python  # Programming language
+streamlit  # Web framework
+google-generativeai  # AI SDK
+Pillow  # Image processing
